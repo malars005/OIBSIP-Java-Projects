@@ -4,5 +4,5 @@
 /**
  * 
  */
-module ATMInterface {
+module NumberGuessingGame {
 }
